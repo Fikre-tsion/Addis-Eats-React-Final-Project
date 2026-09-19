@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Doro Wat",
+    "category": "Platters",
+    "price": 18.5,
+    "description": "Slow-cooked chicken stew in a rich berbere sauce served with injera.",
+    "emoji": "🍗"
+  },
+  {
+    "id": 2,
+    "name": "Kitfo",
+    "category": "Platters",
+    "price": 20,
+    "description": "Minced beef with mitmita, clarified butter, and a fresh side of injera.",
+    "emoji": "🥩"
+  },
+  {
+    "id": 3,
+    "name": "Shiro",
+    "category": "Vegetarian",
+    "price": 14.75,
+    "description": "Creamy chickpea stew infused with aromatic spices and ginger.",
+    "emoji": "🌱"
+  },
+  {
+    "id": 4,
+    "name": "Tibs",
+    "category": "Grills",
+    "price": 17.25,
+    "description": "Tender sautéed beef strips with rosemary, onions, and peppers.",
+    "emoji": "🔥"
+  },
+  {
+    "id": 5,
+    "name": "Gomen",
+    "category": "Sides",
+    "price": 9.5,
+    "description": "Collard greens cooked with garlic, onions, and Ethiopian spices.",
+    "emoji": "🥬"
+  },
+  {
+    "id": 6,
+    "name": "Injera",
+    "category": "Sides",
+    "price": 6,
+    "description": "Traditional sourdough flatbread made fresh each day.",
+    "emoji": "🥖"
+  },
+  {
+    "id": 7,
+    "name": "Coffee Ceremony",
+    "category": "Drinks",
+    "price": 8,
+    "description": "Aromatic Ethiopian coffee served in the traditional ceremonial style.",
+    "emoji": "☕"
+  },
+  {
+    "id": 8,
+    "name": "Baklava",
+    "category": "Desserts",
+    "price": 7.5,
+    "description": "Crisp layered pastry with nuts and a light honey finish.",
+    "emoji": "🍯"
+  }
+]
+
