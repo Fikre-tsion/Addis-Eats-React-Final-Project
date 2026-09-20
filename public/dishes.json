@@ -3,65 +3,65 @@
     "id": 1,
     "name": "Doro Wat",
     "category": "Platters",
-    "price": 18.5,
+    "price": 240,
     "description": "Slow-cooked chicken stew in a rich berbere sauce served with injera.",
-    "emoji": "🍗"
+    "image": "https://foreignfork.com/wp-content/uploads/2025/09/Doro-Wat-Feature-Image.jpg"
   },
   {
     "id": 2,
     "name": "Kitfo",
     "category": "Platters",
-    "price": 20,
+    "price": 260,
     "description": "Minced beef with mitmita, clarified butter, and a fresh side of injera.",
-    "emoji": "🥩"
+    "image": "https://scontent-sin2-2.cdninstagram.com/v/t39.30808-6/492692141_1316661186537501_3532385320376366050_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&_nc_ohc=jJrma6wrsncQ7kNvwEy5qQM&_nc_oc=AdrhpAlzzbtb5F9FEjn35TKuK4450KGJU6NoPYtSOk6yCGB5G1rsIUZ6N6h9u7oQCI8&_nc_zt=23&_nc_ht=scontent-sin2-2.cdninstagram.com&_nc_gid=N05q0c4m9B0Bget3YFemYw&_nc_ss=7e60f&oh=00_AQJc5SCJD67yWIMms6J4XJfeFno3L_LLMt3fWxB4l0PRcQ&oe=6AB57DC1"
   },
   {
     "id": 3,
     "name": "Shiro",
     "category": "Vegetarian",
-    "price": 14.75,
+    "price": 180,
     "description": "Creamy chickpea stew infused with aromatic spices and ginger.",
-    "emoji": "🌱"
+    "image": "https://scontent-sin11-2.xx.fbcdn.net/v/t39.30808-6/488913515_1165773548893966_56887038256763186_n.jpg?stp=dst-jpg_tt6&cstp=mx1024x683&ctp=p600x600&_nc_cat=108&ccb=1-7&_nc_sid=b96d88&_nc_ohc=AatWDAV34p4Q7kNvwHFeXPf&_nc_oc=Ado7w_JphckLGhkZDSUL46W2li9D3dZ6ejo6z1FE4KjDMkiaNrjw2It3e9gwGsQfeJc&_nc_zt=23&_nc_ht=scontent-sin11-2.xx&_nc_gid=SwZ4pl0uHVJEcGd1Xb0Z-A&_nc_ss=7e20f&oh=00_AQIdLTo86LTWgPhvcDtY0fE9gKwuBarnpIAyECkouzIDlw&oe=6AB597EE"
   },
   {
     "id": 4,
     "name": "Tibs",
     "category": "Grills",
-    "price": 17.25,
+    "price": 270,
     "description": "Tender sautéed beef strips with rosemary, onions, and peppers.",
-    "emoji": "🔥"
+    "image": "https://www.reddit.com/r/FoodPorn/comments/e0mv2y/ethiopian_beef_tibs_w_tomatos_and_spicy_dipping/"
   },
   {
     "id": 5,
     "name": "Gomen",
     "category": "Sides",
-    "price": 9.5,
+    "price": 165,
     "description": "Collard greens cooked with garlic, onions, and Ethiopian spices.",
-    "emoji": "🥬"
+    "image": "https://cookingwithalisa.com/wp-content/uploads/2021/02/Ethiopia-Gomen-plated-close-up-better.jpg"
   },
   {
     "id": 6,
     "name": "Injera",
     "category": "Sides",
-    "price": 6,
+    "price": 45,
     "description": "Traditional sourdough flatbread made fresh each day.",
-    "emoji": "🥖"
+    "image": "https://www.thespicehouse.com/cdn/shop/articles/Injera_1200x1200.jpg?v=1589810405"
   },
   {
     "id": 7,
     "name": "Coffee Ceremony",
     "category": "Drinks",
-    "price": 8,
+    "price": 30,
     "description": "Aromatic Ethiopian coffee served in the traditional ceremonial style.",
-    "emoji": "☕"
+    "image": "https://media.istockphoto.com/id/1255040882/photo/cup-of-coffee-with-ethiopia-flag-on-marble-table-top-view.jpg?s=1024x1024&w=is&k=20&c=enR4SIMi1EaWz36WMuIfMSaG-IwzX0ZCE7WLltWphZE="
   },
   {
     "id": 8,
     "name": "Baklava",
     "category": "Desserts",
-    "price": 7.5,
+    "price": 150,
     "description": "Crisp layered pastry with nuts and a light honey finish.",
-    "emoji": "🍯"
+    "image": "https://www.thehungrybites.com/wp-content/uploads/2024/11/Greek-baklava-feat.jpg"
   }
 ]
 
