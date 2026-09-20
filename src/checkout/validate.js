@@ -17,8 +17,13 @@ export function validateCheckout(values) {
 
   if (!values.phone?.trim()) {
     errors.phone = 'Phone number is required.';
-  } else if (values.phone.replace(/\D/g, '').length < 10) {
-    errors.phone = 'Phone number must contain at least 10 digits.';
+  } else {
+    const phone = values.phone.replace(/[\s-]/g, '');
+    const isValidPhone = /^(?:0|\+251)9(?!0{8}$)\d{8}$/.test(phone);
+
+    if (!isValidPhone) {
+      errors.phone = 'Use 09xxxxxxxx or +2519xxxxxxxx with exactly 8 following digits.';
+    }
   }
 
   return errors;
