@@ -297,10 +297,15 @@
 
 .dish-thumb {
   height: 130px;
-  display: grid;
-  place-items: center;
-  font-size: 4rem;
   background: linear-gradient(135deg, #f5d2a9, #f7efe7);
+}
+
+.dish-thumb img,
+.dish-detail-art img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 
 .dish-body {
@@ -354,11 +359,9 @@
 }
 
 .dish-detail-art {
-  display: grid;
-  place-items: center;
   min-height: 420px;
   border-radius: 32px;
-  font-size: 8rem;
+  overflow: hidden;
   background: linear-gradient(135deg, #f5d2a9, #f7efe7);
 }
 

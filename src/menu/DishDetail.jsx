@@ -36,8 +36,8 @@ export default function DishDetail() {
       </Link>
 
       <div className="dish-detail-layout">
-        <div className="dish-detail-art" aria-hidden="true">
-          <span>{dish.emoji}</span>
+        <div className="dish-detail-art">
+          <img src={dish.image} alt={dish.name} />
         </div>
 
         <div className="dish-detail-copy">

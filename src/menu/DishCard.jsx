@@ -7,8 +7,8 @@ export default function DishCard({ dish }) {
 
   return (
     <article className="dish-card">
-      <div className="dish-thumb" aria-hidden="true">
-        <span>{dish.emoji}</span>
+      <div className="dish-thumb">
+        <img src={dish.image} alt={dish.name} />
       </div>
 
       <div className="dish-body">

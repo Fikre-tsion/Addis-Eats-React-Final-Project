@@ -11,6 +11,7 @@ export async function getDishes() {
 export function formatCurrency(value) {
   return new Intl.NumberFormat('en-US', {
     style: 'currency',
-    currency: 'USD',
+    currency: 'ETB',
+    currencyDisplay: 'code',
   }).format(value);
 }
